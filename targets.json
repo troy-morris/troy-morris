@@ -1,0 +1,452 @@
+[
+  {
+    "wallet": "0x78b9ac44a6d7d7a076c14e0ad518b301b63c6b76",
+    "trade_count": 5756,
+    "win_rate": 0.875,
+    "total_pnl_usd": 8705078.46,
+    "winning_positions": 7,
+    "total_positions": 8,
+    "rank": 1
+  },
+  {
+    "wallet": "0xd235973291b2b75ff4070e9c0b01728c520b0f29",
+    "trade_count": 12564,
+    "win_rate": 0.875,
+    "total_pnl_usd": 7698903.29,
+    "winning_positions": 7,
+    "total_positions": 8,
+    "rank": 2
+  },
+  {
+    "wallet": "0x863134d00841b2e200492805a01e1e2f5defaa53",
+    "trade_count": 6826,
+    "win_rate": 1.0,
+    "total_pnl_usd": 7527260.04,
+    "winning_positions": 8,
+    "total_positions": 8,
+    "rank": 3
+  },
+  {
+    "wallet": "0xe9ad918c7678cd38b12603a762e638a5d1ee7091",
+    "trade_count": 5025,
+    "win_rate": 1.0,
+    "total_pnl_usd": 5936332.02,
+    "winning_positions": 1,
+    "total_positions": 1,
+    "rank": 4
+  },
+  {
+    "wallet": "0x885783760858e1bd5dd09a3c3f916cfa251ac270",
+    "trade_count": 6480,
+    "win_rate": 1.0,
+    "total_pnl_usd": 5634963.92,
+    "winning_positions": 7,
+    "total_positions": 7,
+    "rank": 5
+  },
+  {
+    "wallet": "0x23786fdad0073692157c6d7dc81f281843a35fcb",
+    "trade_count": 11824,
+    "win_rate": 0.8571,
+    "total_pnl_usd": 5134848.27,
+    "winning_positions": 6,
+    "total_positions": 7,
+    "rank": 6
+  },
+  {
+    "wallet": "0x94a428cfa4f84b264e01f70d93d02bc96cb36356",
+    "trade_count": 8852,
+    "win_rate": 1.0,
+    "total_pnl_usd": 4453892.61,
+    "winning_positions": 1,
+    "total_positions": 1,
+    "rank": 7
+  },
+  {
+    "wallet": "0x16f91db2592924cfed6e03b7e5cb5bb1e32299e3",
+    "trade_count": 6471,
+    "win_rate": 0.9091,
+    "total_pnl_usd": 4042384.9,
+    "winning_positions": 10,
+    "total_positions": 11,
+    "rank": 8
+  },
+  {
+    "wallet": "0x033a07b3de5947eab4306676ad74eb546da30d50",
+    "trade_count": 3108,
+    "win_rate": 1.0,
+    "total_pnl_usd": 3114400.67,
+    "winning_positions": 3,
+    "total_positions": 3,
+    "rank": 9
+  },
+  {
+    "wallet": "0xed2239a9150c3920000d0094d28fa51c7db03dd0",
+    "trade_count": 5286,
+    "win_rate": 0.75,
+    "total_pnl_usd": 3092634.86,
+    "winning_positions": 12,
+    "total_positions": 16,
+    "rank": 10
+  },
+  {
+    "wallet": "0x2bf64b86b64c315d879571b07a3b76629e467cd0",
+    "trade_count": 1067,
+    "win_rate": 1.0,
+    "total_pnl_usd": 2092886.41,
+    "winning_positions": 6,
+    "total_positions": 6,
+    "rank": 11
+  },
+  {
+    "wallet": "0x5bffcf561bcae83af680ad600cb99f1184d6ffbe",
+    "trade_count": 173945,
+    "win_rate": 0.747,
+    "total_pnl_usd": 2042687.04,
+    "winning_positions": 437,
+    "total_positions": 585,
+    "rank": 12
+  },
+  {
+    "wallet": "0x0562c423912e325f83fa79df55085979e1f5594f",
+    "trade_count": 10536,
+    "win_rate": 0.7222,
+    "total_pnl_usd": 1900336.67,
+    "winning_positions": 13,
+    "total_positions": 18,
+    "rank": 13
+  },
+  {
+    "wallet": "0xa9878e59934ab507f9039bcb917c1bae0451141d",
+    "trade_count": 5947,
+    "win_rate": 0.7952,
+    "total_pnl_usd": 1639263.07,
+    "winning_positions": 664,
+    "total_positions": 835,
+    "rank": 14
+  },
+  {
+    "wallet": "0xe5c8026239919339b988fdb150a7ef4ea196d3e7",
+    "trade_count": 7203,
+    "win_rate": 0.7014,
+    "total_pnl_usd": 1405950.09,
+    "winning_positions": 101,
+    "total_positions": 144,
+    "rank": 15
+  },
+  {
+    "wallet": "0x000d257d2dc7616feaef4ae0f14600fdf50a758e",
+    "trade_count": 16626,
+    "win_rate": 0.8386,
+    "total_pnl_usd": 1136889.68,
+    "winning_positions": 717,
+    "total_positions": 855,
+    "rank": 16
+  },
+  {
+    "wallet": "0x8861f0bb5e0c19474ba73beeadc13ed8915beed6",
+    "trade_count": 10132,
+    "win_rate": 0.74,
+    "total_pnl_usd": 1011376.18,
+    "winning_positions": 37,
+    "total_positions": 50,
+    "rank": 17
+  },
+  {
+    "wallet": "0xed107a85a4585a381e48c7f7ca4144909e7dd2e5",
+    "trade_count": 15914,
+    "win_rate": 0.8739,
+    "total_pnl_usd": 971029.13,
+    "winning_positions": 589,
+    "total_positions": 674,
+    "rank": 18
+  },
+  {
+    "wallet": "0x53d2d3c78597a78402d4db455a680da7ef560c3f",
+    "trade_count": 76845,
+    "win_rate": 0.7974,
+    "total_pnl_usd": 958897.69,
+    "winning_positions": 1834,
+    "total_positions": 2300,
+    "rank": 19
+  },
+  {
+    "wallet": "0x1ff26f9f8a048d4f6fb2e4283f32f6ca64d2dbbd",
+    "trade_count": 184,
+    "win_rate": 0.9,
+    "total_pnl_usd": 909266.66,
+    "winning_positions": 9,
+    "total_positions": 10,
+    "rank": 20
+  },
+  {
+    "wallet": "0x8453f6aa62cba5e5302f501849ffaf83dff2ecc3",
+    "trade_count": 250,
+    "win_rate": 1.0,
+    "total_pnl_usd": 855399.55,
+    "winning_positions": 1,
+    "total_positions": 1,
+    "rank": 21
+  },
+  {
+    "wallet": "0x64f8d315efd2d03897a03985fc42719f56952daa",
+    "trade_count": 706,
+    "win_rate": 1.0,
+    "total_pnl_usd": 683710.58,
+    "winning_positions": 1,
+    "total_positions": 1,
+    "rank": 22
+  },
+  {
+    "wallet": "0xaaab8bf3bd469688d5e09bffeae8f8bf780a8eb2",
+    "trade_count": 155,
+    "win_rate": 0.8571,
+    "total_pnl_usd": 645634.44,
+    "winning_positions": 6,
+    "total_positions": 7,
+    "rank": 23
+  },
+  {
+    "wallet": "0xd4c38e00d99e16f4799550bdbc76faa3606e899f",
+    "trade_count": 3741,
+    "win_rate": 1.0,
+    "total_pnl_usd": 617816.48,
+    "winning_positions": 3,
+    "total_positions": 3,
+    "rank": 24
+  },
+  {
+    "wallet": "0xca72a747f0e4007d75e3067ffd12fc12000b7637",
+    "trade_count": 431,
+    "win_rate": 1.0,
+    "total_pnl_usd": 615460.87,
+    "winning_positions": 1,
+    "total_positions": 1,
+    "rank": 25
+  },
+  {
+    "wallet": "0x4a49ce5fe2d6faadbc0b279c4d2bd5f41665285e",
+    "trade_count": 798,
+    "win_rate": 1.0,
+    "total_pnl_usd": 611091.73,
+    "winning_positions": 1,
+    "total_positions": 1,
+    "rank": 26
+  },
+  {
+    "wallet": "0x4344066fa99418555cd750de88883b703003caef",
+    "trade_count": 16775,
+    "win_rate": 0.7418,
+    "total_pnl_usd": 603834.25,
+    "winning_positions": 724,
+    "total_positions": 976,
+    "rank": 27
+  },
+  {
+    "wallet": "0x7abe2e7eac6f63b1bf4c21eeae71b03e9bd9b47e",
+    "trade_count": 12444,
+    "win_rate": 0.8066,
+    "total_pnl_usd": 580043.76,
+    "winning_positions": 1539,
+    "total_positions": 1908,
+    "rank": 28
+  },
+  {
+    "wallet": "0xa2f1fecf1cc7db65a46588f764b6691533052d22",
+    "trade_count": 59268,
+    "win_rate": 0.7124,
+    "total_pnl_usd": 562275.42,
+    "winning_positions": 2328,
+    "total_positions": 3268,
+    "rank": 29
+  },
+  {
+    "wallet": "0xe899b5ea69afb161da7a35597b6fe70398860899",
+    "trade_count": 4552,
+    "win_rate": 0.7088,
+    "total_pnl_usd": 540718.06,
+    "winning_positions": 129,
+    "total_positions": 182,
+    "rank": 30
+  },
+  {
+    "wallet": "0x128a251f2300694ae6ea9d77e076ea8ea4e097c2",
+    "trade_count": 340,
+    "win_rate": 1.0,
+    "total_pnl_usd": 540103.27,
+    "winning_positions": 3,
+    "total_positions": 3,
+    "rank": 31
+  },
+  {
+    "wallet": "0x0e9b9cb7ee710b57fbcbefdcb518a3a986a16e75",
+    "trade_count": 1710,
+    "win_rate": 0.8042,
+    "total_pnl_usd": 525743.84,
+    "winning_positions": 115,
+    "total_positions": 143,
+    "rank": 32
+  },
+  {
+    "wallet": "0x86793ad1e8f33ae23bcaf93200ec5c7bd2664659",
+    "trade_count": 9330,
+    "win_rate": 0.7114,
+    "total_pnl_usd": 524411.29,
+    "winning_positions": 626,
+    "total_positions": 880,
+    "rank": 33
+  },
+  {
+    "wallet": "0xb33d95f62714c3522ac133de55ba941927fe0392",
+    "trade_count": 492,
+    "win_rate": 1.0,
+    "total_pnl_usd": 475966.29,
+    "winning_positions": 1,
+    "total_positions": 1,
+    "rank": 34
+  },
+  {
+    "wallet": "0x9a73373b3f0e4af0f91eab0f1919edccb898f447",
+    "trade_count": 493,
+    "win_rate": 1.0,
+    "total_pnl_usd": 466957.77,
+    "winning_positions": 1,
+    "total_positions": 1,
+    "rank": 35
+  },
+  {
+    "wallet": "0x03626d34381b0337387b0e8464c898f772009661",
+    "trade_count": 10178,
+    "win_rate": 0.7176,
+    "total_pnl_usd": 445310.59,
+    "winning_positions": 1489,
+    "total_positions": 2075,
+    "rank": 36
+  },
+  {
+    "wallet": "0xdfe3fedc5c7679be42c3d393e99d4b55247b73c4",
+    "trade_count": 4594,
+    "win_rate": 0.7222,
+    "total_pnl_usd": 416293.55,
+    "winning_positions": 156,
+    "total_positions": 216,
+    "rank": 37
+  },
+  {
+    "wallet": "0xe29aaa4696b824ae186075a4a1220262f2f7612f",
+    "trade_count": 2588,
+    "win_rate": 0.875,
+    "total_pnl_usd": 407574.99,
+    "winning_positions": 42,
+    "total_positions": 48,
+    "rank": 38
+  },
+  {
+    "wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
+    "trade_count": 32249,
+    "win_rate": 0.8561,
+    "total_pnl_usd": 386767.41,
+    "winning_positions": 809,
+    "total_positions": 945,
+    "rank": 39
+  },
+  {
+    "wallet": "0xd218e474776403a330142299f7796e8ba32eb5c9",
+    "trade_count": 1509461,
+    "win_rate": 0.7788,
+    "total_pnl_usd": 380297.66,
+    "winning_positions": 15057,
+    "total_positions": 19334,
+    "rank": 40
+  },
+  {
+    "wallet": "0x6b88b6a431c5ec9b3afdb76e69393d0404909856",
+    "trade_count": 2157,
+    "win_rate": 0.7778,
+    "total_pnl_usd": 366920.41,
+    "winning_positions": 7,
+    "total_positions": 9,
+    "rank": 41
+  },
+  {
+    "wallet": "0x448861155279dbf833d041b963e3ac854599e319",
+    "trade_count": 10732,
+    "win_rate": 0.7842,
+    "total_pnl_usd": 348444.72,
+    "winning_positions": 676,
+    "total_positions": 862,
+    "rank": 42
+  },
+  {
+    "wallet": "0xe639e41094bbeae18f3e6d1790c17299183f082a",
+    "trade_count": 6259,
+    "win_rate": 0.7816,
+    "total_pnl_usd": 346595.98,
+    "winning_positions": 161,
+    "total_positions": 206,
+    "rank": 43
+  },
+  {
+    "wallet": "0xd1ecfa3e7d221851663f739626dcd15fca565d8e",
+    "trade_count": 3166,
+    "win_rate": 0.8261,
+    "total_pnl_usd": 345433.55,
+    "winning_positions": 57,
+    "total_positions": 69,
+    "rank": 44
+  },
+  {
+    "wallet": "0x63d43bbb87f85af03b8f2f9e2fad7b54334fa2f1",
+    "trade_count": 972260,
+    "win_rate": 0.8398,
+    "total_pnl_usd": 344156.28,
+    "winning_positions": 18295,
+    "total_positions": 21784,
+    "rank": 45
+  },
+  {
+    "wallet": "0x09abc5845c024a4f9a3abff29d95057e6b20e832",
+    "trade_count": 1848,
+    "win_rate": 0.76,
+    "total_pnl_usd": 331905.14,
+    "winning_positions": 19,
+    "total_positions": 25,
+    "rank": 46
+  },
+  {
+    "wallet": "0x3a6238d6a4d545e27dae2af2d04475efce8b1106",
+    "trade_count": 165,
+    "win_rate": 1.0,
+    "total_pnl_usd": 325536.65,
+    "winning_positions": 1,
+    "total_positions": 1,
+    "rank": 47
+  },
+  {
+    "wallet": "0xd6b6f6924341b00626e603240f799644d4b6342b",
+    "trade_count": 9250,
+    "win_rate": 0.7944,
+    "total_pnl_usd": 324069.25,
+    "winning_positions": 197,
+    "total_positions": 248,
+    "rank": 48
+  },
+  {
+    "wallet": "0xb64f848897508c6f9b76934953758e10fa6b76d4",
+    "trade_count": 436,
+    "win_rate": 1.0,
+    "total_pnl_usd": 320367.65,
+    "winning_positions": 1,
+    "total_positions": 1,
+    "rank": 49
+  },
+  {
+    "wallet": "0xfffadf38a520cd5a0035ff52d7fceb436a08864b",
+    "trade_count": 3726,
+    "win_rate": 0.7109,
+    "total_pnl_usd": 311654.99,
+    "winning_positions": 150,
+    "total_positions": 211,
+    "rank": 50
+  }
+]
